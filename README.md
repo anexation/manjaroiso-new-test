@@ -1,2 +1,0 @@
-manjaroiso-new-test
-===================
